@@ -80,7 +80,10 @@ Road accidents are a major cause of death globally. By predicting the survival l
 - K-Fold Cross Validation for robustness
 
 ---
+## 📦 Screenshot 
+![collab](https://github.com/user-attachments/assets/e5f921a7-785c-463d-8e10-baface5d9418)
 
+---
 ## 📦 Libraries Used
 
 ```python
@@ -91,3 +94,6 @@ import seaborn as sns
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
+
+---
+
